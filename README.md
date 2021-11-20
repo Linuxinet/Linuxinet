@@ -18,6 +18,14 @@
 
 </p>
 
+<p align = "center">
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Linuxinet&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxinet&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Linuxinet&theme=dark&hide_border=true" width = 400 />
+  
+</p>
+
 - 🔭 I'm Mechanical Engineering Student With Interest On Pentesting and Coding
 - 🌱 I Am Currently Learning Python
 - 🎯 2021 Goal: Build A Python Tool To Automate My Work
@@ -26,7 +34,7 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Linuxinet&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'><img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxinet&layout=compact&theme=chartreuse-dark&langs_count=8">
+
 <br>
 
 [linkedin]: https://www.linkedin.com/in/vinay-kumar-rasala-b79b331a7
