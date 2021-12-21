@@ -20,7 +20,7 @@
 
 <p align = "center">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Linuxinet&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Linuxinet&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxinet&layout=compact&theme=chartreuse-dark&langs_count=8" />
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Linuxinet&theme=dark&hide_border=true" width = 400 />
   
