@@ -14,7 +14,7 @@
 <a href="mailto:rvkyadav71@gmail.com?subject=Hola%20Vinay"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br>
 
--> [![Tweet](https://img.shields.io/twitter/url/http/R007_BR34K3R.svg?style=social)](https://twitter.com/intent/follow?screen_name=R007_BR34K3R) [![Follow on Twitter](https://img.shields.io/twitter/follow/R007_BR34K3R.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=R007_BR34K3R) [![GitHub Followers](https://img.shields.io/github/followers/Linuxinet.svg?style=social&label=Follow)](https://github.com/Linuxinet/) <-
+[![Tweet](https://img.shields.io/twitter/url/http/R007_BR34K3R.svg?style=social)](https://twitter.com/intent/follow?screen_name=R007_BR34K3R) [![Follow on Twitter](https://img.shields.io/twitter/follow/R007_BR34K3R.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=R007_BR34K3R) [![GitHub Followers](https://img.shields.io/github/followers/Linuxinet.svg?style=social&label=Follow)](https://github.com/Linuxinet/) 
 </p>
 
 <p align = "center">
@@ -37,3 +37,11 @@
 <br>
 
 [linkedin]: https://www.linkedin.com/in/vinay-kumar-rasala-b79b331a7
+
+<style>
+img[src$="social"] {
+  display:block;
+  margin: 0 auto;
+  align: center;
+}
+</style>
