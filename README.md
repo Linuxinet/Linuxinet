@@ -38,10 +38,4 @@
 
 [linkedin]: https://www.linkedin.com/in/vinay-kumar-rasala-b79b331a7
 
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-img[src$="social"] {
-  align-items: center;
-}
 
-</style>")
