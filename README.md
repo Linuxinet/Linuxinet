@@ -27,7 +27,7 @@
 
 - 🔭 I'm Mechanical Engineering Student With Interest On Pentesting and Coding
 - 🌱 I Am Currently Learning Python
-- 🎯 2021 Goal: Build A Python Tool To Automate My Work
+- 🎯 2022 Goal: Build A Python Tool To Automate My Work
 - 💬 Ask me about anything, I am happy to help 😄
 -  📬 How to reach me: [Let's get in touch!][linkedin]
 
