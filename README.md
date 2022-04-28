@@ -9,9 +9,8 @@
 
 <p align="center">
 <br>
-<a href="https://instagram.com/R007_BR34K3R"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/vinay-kumar-rasala-b79b331a7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:rvkyadav71@gmail.com?subject=Hola%20Vinay"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:rvkyadav71@gmail.com?subject=Hello%20Vinay"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br>
 
 [![Tweet](https://img.shields.io/twitter/url/http/R007_BR34K3R.svg?style=social)](https://twitter.com/intent/follow?screen_name=R007_BR34K3R) [![Follow on Twitter](https://img.shields.io/twitter/follow/R007_BR34K3R.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=R007_BR34K3R) [![GitHub Followers](https://img.shields.io/github/followers/Linuxinet.svg?style=social&label=Follow)](https://github.com/Linuxinet/) 
@@ -25,11 +24,10 @@
   
 </p>
 
-- 🔭 I'm Mechanical Engineering Student With Interest On Pentesting and Coding
-- 🌱 I Am Currently Learning Python
-- 🎯 2022 Goal: Build A Python Tool To Automate My Work
+- 🔭 I'm Mechanical Engineering Student 
+- 🐞 Bugbounty Hunter 
 - 💬 Ask me about anything, I am happy to help 😄
--  📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 <br>
 
